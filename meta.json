@@ -1,0 +1,23 @@
+{
+  "repo": "charles-proxy-windows-deployment-doc",
+  "product": "Charles Proxy Windows Deployment Doc",
+  "kind": "network",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "network",
+  "topics": [
+    "charles-proxy",
+    "http-inspector",
+    "ssl-proxy",
+    "api-debug",
+    "traffic-rewrite",
+    "charles-setup-failed-fix",
+    "how-to-install-charles",
+    "charles-windows",
+    "charles-desktop-2026",
+    "charles-desktop-package"
+  ],
+  "site": "toolix.me"
+}
